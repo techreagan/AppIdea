@@ -1,0 +1,15 @@
+/* html {
+  height: 100vh;
+} */
+
+body {
+  background: #7FBDFF;
+  background: #141212;
+  /* background: red; */
+  /* background: #438bd3; */
+  /* color: rgba(255, 255, 255, .9) */
+}
+
+nav {
+  border-top: 2px solid #218838;
+}
