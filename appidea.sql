@@ -62,11 +62,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `created_at`) VALUES
-(1, 'reagan', 'reaganekhameye@gmail.com', '$2y$10$AeGj3UIlUj7bKWjWINICnOIrT/TdcaZbdgZ3COYmNDa6FeLnK9wRS', '2018-10-25 16:55:15'),
-(2, 'ray', 'ray1@gmail.com', '$2y$10$RkMqsxBsUHggSn.riJhgheHKe0.2ePy.UW6A0E3BVItW91a/qRVHO', '2018-10-25 22:33:51'),
-(3, 'ray2', 'ray11@gmail.com', '$2y$10$/X2nlzI/NIfzxzkdO7oAE.TK.TvcqsMtlia8Iv2LMgF3sStaw/NDK', '2018-10-25 22:42:05'),
-(4, 'reagan1', 'reagan@gmail.com', '$2y$10$hf/ZzRf60PtJKTytXLai2u7apHZ9vTcUmFTWUwDFM7zYapLMvnkoS', '2018-10-25 23:12:07'),
-(5, 'love', 'raygun@gmail.com', '$2y$10$9f8tjZng81S5Ptgot2ni.unZEKtMqRVZiGielwIng0vKyjLbQKq5S', '2018-10-26 19:54:20');
+(1, 'reagan', 'reaganekhameye@gmail.com', '$2y$10$ikAcaD/jEumeWhhVkBrFtuv6Ktx6MSJ4wuTnF5FoupVUqo4CS/6X6', '2018-10-25 16:55:15'),
+(2, 'ray', 'ray1@gmail.com', '$2y$10$ikAcaD/jEumeWhhVkBrFtuv6Ktx6MSJ4wuTnF5FoupVUqo4CS/6X6', '2018-10-25 22:33:51'),
+(3, 'ray2', 'ray11@gmail.com', '$2y$10$ikAcaD/jEumeWhhVkBrFtuv6Ktx6MSJ4wuTnF5FoupVUqo4CS/6X6', '2018-10-25 22:42:05'),
+(4, 'reagan1', 'reagan@gmail.com', '$2y$10$ikAcaD/jEumeWhhVkBrFtuv6Ktx6MSJ4wuTnF5FoupVUqo4CS/6X6', '2018-10-25 23:12:07'),
+(5, 'love', 'raygun@gmail.com', '$2y$10$ikAcaD/jEumeWhhVkBrFtuv6Ktx6MSJ4wuTnF5FoupVUqo4CS/6X6', '2018-10-26 19:54:20');
 
 --
 -- Indexes for dumped tables
